@@ -7,10 +7,10 @@ This project is a multi-agent and dynamic environment Snake game using Reinforce
 In this game, the snake should avoid its head to collide with its own body, the walls, obstacles and eat candy as much as it can grow longer to maximize the scores it achieved. I plan to have 3 levels of this game, with the change of the size of map, the number of obstacles, and the number of candy. 
 
 Environment Features will consist of :
-● Dynamic obstacles and walls
-● Randomly appearing/disappearing food with different values
-● Multiple AI agents competing in same space
-● Map size adjusts with number of players
+- Dynamic obstacles and walls
+- Randomly appearing/disappearing food with different values
+- Multiple AI agents competing in same space
+- Map size adjusts with number of players
 
 ### Reinforcement Learning
 **State:**
